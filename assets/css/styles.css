@@ -1,0 +1,32 @@
+/* Aplicar a fonte Open Sans em todo o site */
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+/* Aplicar em elementos específicos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 500; /* Configurar peso mais intenso */
+}
+
+p {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 300; /* Peso padrão */
+}
+
+.tit1 {
+    color:#55d876;
+    font-weight: 700;
+}
+
+.secao1 {
+    align-self: center;
+}
+
+.btn {
+    color: #55d876;
+}
+
+.footersty {
+    font-size: 0.9rem;
+}
